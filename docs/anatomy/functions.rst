@@ -1,5 +1,5 @@
-Functions (*.function)
-==========================
+Functions
+==========
 
 In Poshi, a function handles any extra WebDriver commands that an element might require to interact with a page object or element. Consider an example where we would like to toggle a switch and doing so requires the following:
 * Wait for SPA refresh on the page;

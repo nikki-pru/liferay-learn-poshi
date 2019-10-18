@@ -1,5 +1,5 @@
-WebDriverImpl (.java)
-=====================
+WebDriverImpl
+=============
 
 This section further discusses the layers, or parts, that make up a Poshi test. For a general overview, see the Poshi Layers section in the Introduction.
 

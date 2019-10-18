@@ -1,5 +1,5 @@
-Paths (*.path)
-==================
+Paths
+======
 
 A Path is an element on a page in Liferay that a test will interact with. An element can be a button, text field, link, image, paragraph, or just about anything you would need to assert, click, or type into during a test. Each path is defined by the following:
 #. Locator key: This is a descriptive label for what the element is (e.g. "CHECKOUT"). Locator keys are all-caps and use underscores instead of spaces.
