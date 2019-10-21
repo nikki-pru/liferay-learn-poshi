@@ -71,3 +71,4 @@ Poshi is a tool developed at Liferay that allows test writers to write and autom
   :name: Extras
 
   appendix/json-ws
+  appendix/links
