@@ -15,3 +15,11 @@ Need immediate help?
 .. _LRQA Slack channel: https://liferay.slack.com/messages/CL84ZPHAT
 .. _Poshi Slack channel: https://liferay.slack.com/messages/CD7939WBE
 .. _Github Repo: https://github.com/liferay/liferay-qa-ee/tree/liferay-qa-docs
+
+
+.. toctree::
+  :caption: Test markdown
+  :glob:
+  :maxdepth: 2
+  
+  test/*
